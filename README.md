@@ -1,4 +1,7 @@
 # procedures
+
+Nevermind. This should be a Youtube series. 
+
 These are boilerplates. Cheatsheets. Either name would have served well for this repository but I added a military spin to it. In the military, everything you do is precise and according to procedure because mistakes can cost lives. In a company, everything you write as a developer impacts many customers and mistakes can cost $$$. So follow strict procedures, PRIVATE! 
 
 To start any new project:
